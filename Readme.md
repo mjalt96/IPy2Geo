@@ -2,4 +2,4 @@
 
 Get the Geolocation from an IP Address and other relevant information.
 
-Made in Python with love.
+Made in Python 🐍 with love.
